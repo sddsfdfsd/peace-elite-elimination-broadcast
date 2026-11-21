@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.paddle-models/
+models/
+*_播报截图/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+*.m4v
